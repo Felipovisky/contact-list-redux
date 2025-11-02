@@ -1,16 +1,16 @@
-# Corporate Contact List
+# Lista de Contatos Corporativa
 
-This project is a corporate contact list application built with React, Redux for state management, and Styled Components for styling. It allows users to manage a list of contacts, including adding, editing, and deleting contact information.
+Este projeto é uma aplicação de lista de contatos corporativos construída com React, Redux para gerenciamento de estado e Styled Components para estilização. Permite que os usuários gerenciem uma lista de contatos, incluindo adicionar, editar e excluir informações de contato.
 
-## Features
+## Funcionalidades
 
-- **Contact Management**: Add, edit, and delete contacts.
-- **Contact List Display**: View a list of all contacts with their details.
-- **Detailed View**: Click on a contact to view detailed information.
-- **Styled Components**: Consistent styling across the application using Styled Components.
-- **Redux State Management**: Efficient state management for contacts using Redux.
+- **Gerenciamento de Contatos**: Adicionar, editar e excluir contatos.
+- **Exibição da Lista de Contatos**: Visualizar uma lista de todos os contatos com seus detalhes.
+- **Visualização Detalhada**: Clicar em um contato para ver informações detalhadas.
+- **Styled Components**: Estilização consistente em toda a aplicação usando Styled Components.
+- **Gerenciamento de Estado com Redux**: Gerenciamento eficiente do estado dos contatos usando Redux.
 
-## Project Structure
+## Estrutura do Projeto
 
 ```
 corporate-contact-list
@@ -54,39 +54,31 @@ corporate-contact-list
 └── README.md
 ```
 
-## Getting Started
+## Começando
 
-1. Clone the repository:
-   ```
+1. Clone o repositório:
    git clone <repository-url>
-   ```
 
-2. Navigate to the project directory:
-   ```
+2. Navegue até o diretório do projeto:
    cd corporate-contact-list
-   ```
 
-3. Install dependencies:
-   ```
+3. Instale as dependências:
    npm install
-   ```
 
-4. Start the development server:
-   ```
+4. Inicie o servidor de desenvolvimento:
    npm start
-   ```
 
-## Technologies Used
+## Tecnologias Utilizadas
 
 - React
 - Redux
 - Styled Components
 - TypeScript
 
-## Contributing
+## Contribuindo
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+Contribuições são bem-vindas! Por favor, abra uma issue ou envie um pull request para melhorias ou correções de bugs.
 
-## License
+## Licença
 
-This project is licensed under the MIT License.
+Este projeto está licenciado sob a Licença MIT.
