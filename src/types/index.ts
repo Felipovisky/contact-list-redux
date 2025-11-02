@@ -1,0 +1,16 @@
+export interface Contact {
+    id: string;
+    name: string;
+    email: string;
+    phone: string;
+}
+
+export interface ContactState {
+    items: Contact[];
+    loading: boolean;
+    error: string | null;
+}
+
+export interface RootState {
+    contacts: ContactState;
+}
